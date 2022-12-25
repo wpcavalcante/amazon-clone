@@ -4,7 +4,7 @@
 
 https://wpcavalcante.github.io/amazon-clone
 
-Esse site é um clone da página da Amazon e foi feita utilizando Typescript, ReactJS e Tailwind CSS. A aplicação permite que você adicione produtos ao carrinho e remova eles depois de adicionado. Ela também conta com um componente que mostra quantos produtos foram adicionados e a soma total do preço deles
+Esse site é um clone simples da página da Amazon e foi feita utilizando Typescript, ReactJS e Tailwind CSS. A aplicação permite que você adicione produtos ao carrinho e remova eles depois de adicionado. Ela também conta com um componente que mostra quantos produtos foram adicionados e a soma total do preço deles
 
 
 
